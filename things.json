@@ -1,0 +1,114 @@
+{
+  "users": {
+    "tawetg777": 5,
+    "ServerStoringz": 4,
+    "FooIishPotato": 2,
+    "LatestHell": 2,
+    "Jumbochickennugets5": 2
+  },
+  "restrictedstands": {
+    "1338": 4,
+    "1339": 3,
+    "10266921": 5,
+    "1110001101001": 4,
+    "1691": 4,
+    "10069": 3,
+    "9999999999999": 5,
+    "100218331": 4,
+    "49054371": 3,
+    "-666": 6,
+    "2874282": 4,
+    "1300": 3,
+    "2020": 10,
+    "11234991": 3,
+    "-3902894594": 11,
+    "7493": 5,
+    "696234331": 4,
+    "2839393228": 3,
+    "4000402694121": 3,
+    "1000": 4,
+    "1001": 3,
+    "6007": 4,
+    "99": 4,
+    "69696969": 5,
+    "7461": 5,
+    "89991": 4,
+    "-666777": 3,
+    "789": 5,
+    "7774": 5,
+    "764": 5,
+    "103813": 5,
+    "9672": 5,
+    "672": 5,
+    "671": 5,
+    "67676767": 4,
+    "876967896789": 4
+  },
+  "permissions": {
+    "1": {
+      "givestand": false,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "2": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "3": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "4": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "5": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "6": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "10": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "11": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "999999": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    }
+  },
+  "userids": {
+    "1536552360": 999999,
+    "2784266026": 999999,
+    "753096985": 999999,
+    "825849708": 999999,
+    "4474637485": 999999,
+    "1397408429": 2,
+    "541340434": 2,
+    "4339924958": 2,
+    "106215322": 2
+  }
+}
