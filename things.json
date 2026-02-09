@@ -1,11 +1,30 @@
 {
   "users": {
-    "tawetg777": 5,
-    "ServerStoringz": 4,
-    "FooIishPotato": 2,
-    "LatestHell": 2,
-    "Jumbochickennugets5": 2,
-    "percosz": 999999
+
+    "percosz":,
+    // Head Of Staff
+    "landocommando42307": 999999,
+    
+    
+    // Head Admin
+    "mellosayhello": 999999,
+    "pawimprintz": 999999,
+    "jaspersfluffypaws": 999999,
+    
+    // Admin
+    "nobviii": 5,
+    "bithrman4368": 5,
+    "armaandokodo": 5,
+    "deathbyarchitects": 5,
+    
+    // Mod
+    "akumabest5": 4,
+    "gust34525": 4,
+    "jellyjankl": 4,
+    "low_tierpurple": 4,
+    
+  
+    "Nuclear_Winterr": 2
   },
   "restrictedstands": {
     "1338": 4,
@@ -102,15 +121,26 @@
     }
   },
   "userids": {
-    "1536552360": 999999,
-    "2784266026": 999999,
-    "753096985": 999999,
-    "825849708": 999999,
-    "4474637485": 999999,
-    "1397408429": 2,
-    "541340434": 2,
-    "4339924958": 2,
-    "106215322": 2,
-    "312477714": 999999
+    // Head Of Staff
+    "212593514": 999999,  // landocommando42307
+    
+    // Head Admin
+    "2211493942": 999999, // mellosayhello
+    "3572324323": 999999, // pawimprintz
+    "8942739245": 999999, // jaspersfluffypaws
+    
+    // Admin
+    "850671148": 5,       // nobviii
+    "1118565544": 5,      // bithrman4368
+    "141437022": 5,       // armaandokodo
+    "7481479387": 5,      // deathbyarchitects
+    
+    // Mod
+    "122324955": 4,       // akumabest5
+    "465370633": 4,       // gust34525
+    "1885946496": 4,      // jellyjankl
+    "10374703547": 4,     // low_tierpurple
+    
+    "3683142781": 2       // Nuclear_Winterr
   }
 }
